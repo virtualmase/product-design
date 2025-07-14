@@ -1,37 +1,37 @@
 {
   "meta": {
-    "title": "Jane Doe | Product Designer",
-    "description": "Portfolio website showcasing product design work and skills"
+    "title": "Avery Lane | Product Designer in Denver, CO",
+    "description": "Denver-based product designer blending tech, sustainability, and user empathy. Portfolio of digital products for startups and outdoor brands."
   },
   "personal": {
-    "name": "Jane Doe",
-    "title": "Product Designer",
-    "location": "San Francisco, CA",
+    "name": "Avery Lane",
+    "title": "Product Designer & UX Strategist",
+    "location": "Denver, CO",
     "avatar": "/confident-professional.png",
-    "email": "jane.doe@example.com",
-    "phone": "+1 (415) 555-2671",
-    "workingHours": "Monday - Friday, 9am - 5pm PST",
+    "email": "avery.lane@denverdesign.com",
+    "phone": "+1 (720) 555-1842",
+    "workingHours": "Monday - Thursday, 8am - 4pm MST",
     "availableForWork": true,
-    "badges": ["UI/UX", "Product Design", "Prototyping"],
+    "badges": ["UI/UX", "Sustainable Design", "Outdoor Tech"],
     "social": [
       {
         "platform": "GitHub",
-        "url": "#",
+        "url": "https://github.com/averylane",
         "icon": "Github"
       },
       {
         "platform": "LinkedIn",
-        "url": "#",
+        "url": "https://linkedin.com/in/averylaneux",
         "icon": "Linkedin"
       },
       {
-        "platform": "Twitter",
-        "url": "#",
-        "icon": "Twitter"
+        "platform": "Dribbble",
+        "url": "https://dribbble.com/averylane",
+        "icon": "Dribbble"
       },
       {
         "platform": "Instagram",
-        "url": "#",
+        "url": "https://instagram.com/averylane.designs",
         "icon": "Instagram"
       }
     ]
